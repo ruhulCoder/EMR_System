@@ -1,0 +1,71 @@
+/* ===Registration Page=== */
+.body1{
+    background-image: url("/public/image/img1.png");
+    background-size: cover;
+    height: 100vh;
+}
+/* ===EMR System=== */
+.img2{
+    display: block;
+    padding-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 40px;
+}
+/* ===Good morning=== */
+.good{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 600;
+    margin-top: 10px;
+    color: white;
+}
+/* ===Form=== */
+.login-form2{
+    width: 400px;
+    height: 440px;
+    padding: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;   
+    background-color: white;
+}
+/* ===Register Button=== */
+.login-form-button{
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+@media (max-width: 450px) {
+    .img2{
+        padding-top: 50px;
+    }
+
+    .good{
+        font-size: 30px;
+    }
+
+    .login-form2{
+        width: 260px;
+        height: 440px;
+        padding: 30px;
+    }
+}
+
+@media (max-width: 270px) {
+    .img2{
+        padding-top: 30px;
+    }
+
+    .good{
+        font-size: 30px;
+    }
+
+    .login-form2{
+        width: 170px;
+        height: 450px;
+        padding: 15px;
+    }
+}

@@ -1,0 +1,4 @@
+:where(.css-dev-only-do-not-override-sk7ap8).ant-table-wrapper .ant-table-pagination.ant-pagination {
+    padding-bottom: 100px;
+    position: absolute;
+}

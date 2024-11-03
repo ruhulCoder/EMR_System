@@ -1,0 +1,36 @@
+/* ===Above Navbar=== */
+.black-strip{
+    height: 25px;
+    /* background-color: #1D2630; */
+    /* background-color: #A1A1A1; */
+    background-color: white;
+    border-bottom: 1px solid  #E1E3E6;
+}
+
+h7{
+    /* color: white; */
+    color: black;
+    float: right;
+    margin-right: 10px;
+}
+
+.translate-box{
+    margin-left: 10px;
+}
+
+.img{
+    /* color: white; */
+    color: black;
+}
+
+.lang-select{
+    width: 45px;
+    margin-left: 5px;
+    /* background: #1D2630; */
+    /* background: #A1A1A1; */
+    /* color: white; */
+    color: black;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}

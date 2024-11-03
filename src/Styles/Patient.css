@@ -1,0 +1,44 @@
+/* ===Patients Page=== */
+.lowerbar{
+    background-color: #E0EAFF;
+    height: 282px;
+}
+
+.patient{
+    padding-top: 40px;
+    font-size: 38px;
+    height: 46px;
+    font-weight: 600;
+    margin-left: 235px;
+}
+
+.innerbar{
+    background-color: #C0D4FF;
+    width: 1080px;
+    height: 64px;
+    border-radius: 10px;
+    margin-top: 35px;
+    margin-left: 230px;
+    display: flex;
+}
+
+.search-icon {
+    margin-top: 15px;
+    margin-top: 15px;
+}
+
+.resetbtn2{
+    width: 71px;
+    height: 32px;
+    border-radius: 2px;
+    padding: 5px 16px 5px 16px;
+    color: #ADB0B5;
+    border: #F5F9FD;
+    cursor: pointer;
+    margin-left: 465px;
+    margin-top: 15px;
+}
+
+.resetbtn2:hover{
+    background-color: #3366FF;
+}

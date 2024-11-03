@@ -1,0 +1,86 @@
+/* ===Navbar=== */
+.navbar{
+    /* background-color: antiquewhite; */
+    height: 64px;
+}
+
+.img5{
+    height: 32px;
+    width: 159px;
+    /* margin-left: 205px; */
+    margin-top: 16px;
+}
+
+.navlist{
+    margin-top: -40px;
+    /* margin-left: 400px; */
+    display: flex;
+    justify-content: center;
+}
+
+.navlist > li{
+    display: inline-block;
+    padding: 8px 50px;
+    list-style: none; 
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+    padding: 0 0  20px 0;
+}
+
+.user{
+    float: right;
+    margin-right: 10px;
+    margin-top: -42px;
+    /* display: flex; */
+}
+
+/* .logoutbtn{
+    width: 68px;
+    height: 25px;
+    padding: 1px 8px 1px 8px;
+    cursor: pointer;
+    border: 1px solid #E4E9F2;
+    background-color: white;
+} */
+
+/* .img6{
+    width: 24px;
+    height: 24px;
+    margin-left: 20px;
+} */
+
+/* h7{
+    margin-left: 10px;
+} */
+
+/* .translate-box{
+    float: right;
+    margin-right: 200px;
+    margin-top: -32px;
+} */
+
+.img7{
+    /* width: 36px; */
+    /* height: 36px; */
+    /* margin-tosp: -8px; */
+    /* margin-right: 40px; */
+}
+
+/* .lang-box{
+    margin-top: -23px;
+} */
+
+/* .lang-select{
+    margin-left: 20px;
+    background: none;
+    border: none;
+    outline: none;
+} */
+
+.active{
+    color: blue;
+    border-bottom: 2px solid blue;
+}
